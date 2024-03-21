@@ -83,6 +83,7 @@ span {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42 ;
+    background-color: #FFFFFF;
 }
 
 .our-team-section-subheader {
@@ -95,7 +96,8 @@ span {
 
 .our-team-section-paragraf {
     font-size: 16;
-    line-height: 24;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
 
