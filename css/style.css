@@ -101,8 +101,12 @@ span {
 }
 
 .our-portfolio-section-header {
-    font-size: 36;
-    line-height: 40;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .our-portfolio-section-subheader {
