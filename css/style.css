@@ -55,9 +55,13 @@ span {
 }
 
 .footer-logo {
-    color: #FFFFFF;
-    font-size: 18;
-    line-height: 21;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 
 .main-section-paragraf {
@@ -125,8 +129,9 @@ span {
 }
 
 .footer-paragraf {
-    font-size: 16;
-    line-height: 24;
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em
 }
 
 .studio-link {
@@ -182,4 +187,8 @@ span {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.span-footer {
+    color: #F4F4FD;
 }
