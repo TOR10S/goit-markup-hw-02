@@ -1,0 +1,103 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42
+}
+
+a {
+    text-decoration: none;
+    color: #2E2F42; 
+  }
+
+ul {
+    list-style-type: none;
+  }
+
+
+
+a:hover {
+    color: #404BBF;
+}
+
+button {
+    cursor: pointer;
+}
+
+.header-logo {
+    font-family: "Raleway";
+    font-size: 18;
+    line-height: 21;
+}
+
+.address-info {
+    font-style: normal;
+}
+
+.hero-section {
+    background-color:#2E2F42 ;
+    color: #FFFFFF;
+}
+
+.our-team-section {
+    background-color: #F4F4FD;
+}
+
+.footer-section {
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+
+.footer-logo {
+    color: #FFFFFF;
+    font-size: 18;
+    line-height: 21;
+}
+
+.main-section-paragraf {
+    color: #434455;
+    font-size: 16;
+    line-height: 24;
+}
+
+.main-section-subheader {
+    font-size: 20;
+    line-height: 20;
+}
+
+.our-team-section-header {
+    font-size: 36;
+    line-height: 40;
+}
+
+.our-team-section-subheader {
+    font-size: 20;
+    line-height: 24;
+    background-color: #FFFFFF;
+}
+
+.our-team-section-paragraf {
+    font-size: 16;
+    line-height: 24;
+    background-color: #FFFFFF;
+}
+
+.our-portfolio-section-header {
+    font-size: 36;
+    line-height: 40;
+}
+
+.our-portfolio-section-subheader {
+    font-size: 20;
+    line-height: 24;
+    background-color: #E7E9FC;
+}
+
+.our-portfolio-section-paragraf  {
+    font-size: 16;
+    line-height: 24;
+    background-color: #E7E9FC;
+}
+
+.footer-paragraf {
+    font-size: 16;
+    line-height: 24;
+}
