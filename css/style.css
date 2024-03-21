@@ -134,13 +134,13 @@ span {
     letter-spacing: 0.02em
 }
 
-.studio-link {
+.link {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.studio-link:focus {
+.link:focus {
     color: #404bbf;
 }
 
