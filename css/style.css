@@ -109,11 +109,10 @@ span {
 }
 
 .our-portfolio-section-subheader {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
+    font-weight: 500;
+    font-size: 20px ;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
     color: #2e2f42;
 }
 
