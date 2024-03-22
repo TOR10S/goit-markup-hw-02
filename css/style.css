@@ -6,12 +6,12 @@ body {
 
 a {
     text-decoration: none;
-    color: #2E2F42; 
-  }
+    color: #2E2F42;
+}
 
 ul {
     list-style-type: none;
-  }
+}
 
 
 
@@ -42,7 +42,7 @@ span {
 }
 
 .hero-section {
-    background-color:#2E2F42 ;
+    background-color: #2E2F42;
 }
 
 .our-team-section {
@@ -69,7 +69,7 @@ span {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:  #434455;
+    color: #434455;
 }
 
 .main-section-subheader {
@@ -86,15 +86,15 @@ span {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color:#2e2f42 ;
+    color: #2e2f42;
 }
 
 .our-team-section-subheader {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em ;
-    color:#2e2f42 ;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .our-team-section-paragraf {
@@ -115,13 +115,13 @@ span {
 
 .our-portfolio-section-subheader {
     font-weight: 500;
-    font-size: 20px ;
+    font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.our-portfolio-section-paragraf  {
+.our-portfolio-section-paragraf {
     font-size: 16;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -138,7 +138,7 @@ span {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:  #2e2f42;
+    color: #2e2f42;
 }
 
 .link:focus {
