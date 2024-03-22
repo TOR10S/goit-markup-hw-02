@@ -101,6 +101,7 @@ span {
     font-size: 16;
     line-height: 1.5;
     letter-spacing: 0.02em;
+
 }
 
 .our-portfolio-section-header {
@@ -193,6 +194,6 @@ span {
     color: #F4F4FD;
 }
 
-.background {
+.our-team-section-li {
     background-color: #FFFFFF;
 }
